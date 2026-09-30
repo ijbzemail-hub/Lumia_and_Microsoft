@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(#339933, #2067B2, #0077D6);
+    color: #000000;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+.Smartphones{
+    margin: 0;
+    padding: 0;
+}
+
+.wordNOKIA{
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.NOKIA{
+    margin: 0;
+}
+.SpecialNOKIA{
+    font-size: 23px;
+    color: #00FFD0;
+    margin: 0;
+}
+
+
+
+.wordMicrosoft{
+    font-size: 30px;
+}
+.Microsoft{
+    margin: 0;
+}
+.SpecialMicrosoft{
+    font-size: 23px;
+    color: #00FFD0;
+    margin: 0;
+}
