@@ -1,5 +1,5 @@
 body{
-    background-color: #000;
+    background: linear-gradient( 225deg, #000, #999, #888, #777, #666, #555, #444, #333, #222, #111);
     color: #000000;
 }
 main{
@@ -10,10 +10,10 @@ main{
     margin: 0;
 }
 .Smartphones{
-    background: linear-gradient(#339933, #2067B2, #0077D6);
+    background: linear-gradient(135deg, #119911, #339933, #2067B2, #0077D6);
     width: 550px;
-    margin: 0;
     padding: 0;
+    margin: 0;
 }
 
 
