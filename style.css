@@ -1,17 +1,22 @@
 body{
-    background: linear-gradient(#339933, #2067B2, #0077D6);
+    background-color: #000;
     color: #000000;
 }
 main{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin: 0;
 }
 .Smartphones{
+    background: linear-gradient(#339933, #2067B2, #0077D6);
+    width: 550px;
     margin: 0;
     padding: 0;
 }
+
+
 
 .wordNOKIA{
   font-family: "Russo One", sans-serif;
