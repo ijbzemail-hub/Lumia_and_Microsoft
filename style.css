@@ -14,11 +14,16 @@ main{
 }
 
 .wordNOKIA{
-  font-family: "Press Start 2P", system-ui;
+  font-family: "Russo One", sans-serif;
   font-weight: 400;
   font-style: normal;
+  font-size: 30px;
 }
 .NOKIA{
+    font-family: "Isometra", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
     margin: 0;
 }
 .SpecialNOKIA{
@@ -30,9 +35,16 @@ main{
 
 
 .wordMicrosoft{
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
     font-size: 30px;
 }
 .Microsoft{
+    font-family: "Isometra", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
     margin: 0;
 }
 .SpecialMicrosoft{
