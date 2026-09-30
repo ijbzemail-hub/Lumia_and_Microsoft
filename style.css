@@ -1,3 +1,4 @@
+/* Main */
 body{
     background: linear-gradient( 90deg, #004400, #119911, #339933, #2067B2, #0077D6, #002039);
     color: #000000;
@@ -17,7 +18,7 @@ main{
 }
 
 
-
+/* NOKIA */
 .wordNOKIA{
   font-family: "Russo One", sans-serif;
   font-weight: 400;
@@ -29,16 +30,26 @@ main{
     font-weight: 400;
     font-style: normal;
     font-size: 15px;
+    color: #000;
+    text-decoration: none;
     margin: 0;
+}
+.linkNOKIA{
+    color: #000;
+    text-decoration: none;
 }
 .SpecialNOKIA{
     font-size: 23px;
     color: #00FFD0;
     margin: 0;
 }
+.linkSpecialNOKIA{
+    color: #000;
+    text-decoration: none;
+}
 
 
-
+/* Microsoft */
 .wordMicrosoft{
     font-family: "Press Start 2P", system-ui;
     font-weight: 400;
@@ -52,8 +63,16 @@ main{
     font-size: 15px;
     margin: 0;
 }
+.linkMicrosoft{
+    color: #000;
+    text-decoration: none;
+}
 .SpecialMicrosoft{
     font-size: 23px;
     color: #00FFD0;
     margin: 0;
+}
+.linkSpecialMicrosoft{
+    color: #000;
+    text-decoration: none;
 }
