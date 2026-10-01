@@ -24,6 +24,8 @@ main{
   font-weight: 400;
   font-style: normal;
   font-size: 30px;
+  color: #124191;
+  text-decoration: none;
 }
 .NOKIA{
     font-family: "Isometra", serif;
@@ -55,6 +57,11 @@ main{
     font-weight: 400;
     font-style: normal;
     font-size: 30px;
+    background: linear-gradient(45deg, #FF0000, #dd1a1a, #d51c1c, #00FF00, #0000FF, #FFFF00, #fdfd15, #cfbf11);
+    -webkit-backface-visibility: text;
+    background-clip: text;
+    color: transparent;
+    text-decoration: none;
 }
 .Microsoft{
     font-family: "Isometra", serif;
