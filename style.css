@@ -65,17 +65,27 @@ main{
     margin: 0;
 }
 .linkNOKIA{
-    color: #000;
+    color: #124191;
     text-decoration: none;
 }
+.linkNOKIA:hover{
+    color: #FF0000;
+}
+
 .SpecialNOKIA{
     font-size: 23px;
     color: #00FFD0;
+    text-decoration: none;
     margin: 0;
 }
 .linkSpecialNOKIA{
-    color: #000;
+    font-size: 23px;
+    color: #00FFD0;
     text-decoration: none;
+    margin: 0;
+}
+.linkSpecialNOKIA:hover{
+    color: #42ff04;
 }
 
 
@@ -102,6 +112,10 @@ main{
     color: #000;
     text-decoration: none;
 }
+.linkMicrosoft:hover{
+    background: linear-gradient(45deg, #FF0000, #dd1a1a, #d51c1c, #00FF00, #0000FF, #FFFF00, #fdfd15, #cfbf11);
+    -webkit-backface-visibility: text;
+}
 .SpecialMicrosoft{
     font-size: 23px;
     color: #00FFD0;
@@ -110,4 +124,29 @@ main{
 .linkSpecialMicrosoft{
     color: #000;
     text-decoration: none;
+}
+
+
+/* end/creators */
+.end{
+    background-color: #0077D6;
+    width: 520px;
+    height: 100px;
+    margin: 15px;
+
+    display: flex;
+}
+.develop{
+    color: #000;
+    text-decoration: none;
+    margin: 2px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.develop:hover{
+    background-color: #339933;
+    color: #2afa0e;
 }
